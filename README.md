@@ -15,3 +15,9 @@ El modelo fue evaluado durante un período de 12 horas, considerando tres escena
 A través de **Vensim PLE**, se formularon las ecuaciones del modelo y se analizaron las curvas de evolución de temperatura y potencia. Además, se desarrolló una página web interactiva para visualizar los resultados de la simulación.
 
 **El objetivo principal fue comprender cómo los mecanismos de realimentación permiten regular procesos industriales**, evaluar su respuesta frente a perturbaciones y analizar la influencia de las restricciones operativas sobre la estabilidad y eficiencia del sistema.
+
+## Archivos del Proyecto
+
+📄 [Ver Informe Técnico Completo (PDF)](https://github.com/Mili5555/modulo_5/blob/main/Informe_Modulo_5_Dinamica_de_Sistemas.pdf)
+
+🌐 [Abrir Simulación Interactiva – Dinámica de Sistemas](https://mili5555.github.io/modulo_5/)
