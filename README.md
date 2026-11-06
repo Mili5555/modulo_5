@@ -21,3 +21,5 @@ A través de **Vensim PLE**, se formularon las ecuaciones del modelo y se analiz
 📄 [Ver Informe Técnico Completo (PDF)](https://github.com/Mili5555/modulo_5/blob/main/Informe_Modulo_5_Dinamica_de_Sistemas.pdf)
 
 🌐 [Abrir Simulación Interactiva – Dinámica de Sistemas](https://mili5555.github.io/modulo_5/)
+
+📦 [Descargar Proyecto Completo – Módulo 5 (ZIP)](https://github.com/Mili5555/modulo_5/raw/refs/heads/main/Modulo_5_Entrega_Completa_GitHub.zip)
